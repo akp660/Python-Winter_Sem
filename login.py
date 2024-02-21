@@ -31,7 +31,5 @@ entry_password.pack()
 btn_login = tk.Button(root, text="Login", command=validate_login)
 btn_login.pack()
 
-btn_signup = tk.Button(root, text="Sign Up", command=open_signup_form)
-btn_signup.pack()
 
 root.mainloop()
