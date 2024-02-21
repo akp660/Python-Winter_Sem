@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #14/02/24
 
 #for loop
@@ -56,7 +55,7 @@ if (n == 9):
 elif(n%2 == 0):
     print("Even")
 else:
-=======
+    print("Odd")
 #14/02/24
 
 #for loop
@@ -114,5 +113,4 @@ if (n == 9):
 elif(n%2 == 0):
     print("Even")
 else:
->>>>>>> a42fbc669ed63867b28b9b185b0ee33e7f93232b
     print("Odd")
