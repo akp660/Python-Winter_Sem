@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
+#function for taking input and varify the id and password.
 def validate_login():
     username = entry_username.get()
     password = entry_password.get()
@@ -13,7 +14,7 @@ def validate_login():
 def open_signup_form():
 
     print("Opening signup form...")
-
+# Creating UI
 root = tk.Tk()
 root.title("Login Form")
 
