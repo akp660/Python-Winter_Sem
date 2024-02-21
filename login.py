@@ -14,7 +14,9 @@ def validate_login():
 def open_signup_form():
 
     print("Opening signup form...")
+
 # Creating UI
+    
 root = tk.Tk()
 root.title("Login Form")
 
@@ -27,6 +29,8 @@ label_password = tk.Label(root, text="Password:")
 label_password.pack()
 entry_password = tk.Entry(root, show="*")
 entry_password.pack()
+
+# Added validating process.
 
 btn_login = tk.Button(root, text="Login", command=validate_login)
 btn_login.pack()
