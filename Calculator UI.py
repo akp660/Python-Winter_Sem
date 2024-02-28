@@ -52,3 +52,4 @@ btn_Div = tk.Button(root, text="Division", command=lambda: calculate("Division")
 btn_Div.pack()
 
 root.mainloop()
+
