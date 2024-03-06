@@ -10,7 +10,4 @@ with open("storage.txt", "r") as fds:
 
     my_second_list = json.load(fds) 
 
- 
- 
-
 print(my_second_list) 
