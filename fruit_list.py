@@ -12,3 +12,9 @@ for fruit in fruits:
 
 for fruit, count in fruit_counts.items():
     print(f"{fruit}: {count}")
+
+
+
+
+
+
