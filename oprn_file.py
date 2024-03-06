@@ -21,3 +21,6 @@ with open('inputfile.txt', encoding="utf-8") as f:
 with open('inputfile.txt', 'w+', encoding="utf-8") as f: 
 
     f.write('This is a test\n') 
+
+
+
