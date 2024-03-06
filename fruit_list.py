@@ -1,4 +1,4 @@
-fruits = ['orange', 'apple', 'pear','banaba', 'kiwi', 'apple', 'banana']
+fruits = ['orange', 'apple', 'pear','banana', 'kiwi', 'apple', 'banana']
 
 # Count number of fruits
 
