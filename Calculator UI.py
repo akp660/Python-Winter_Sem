@@ -2,8 +2,6 @@
 # =lambda t= "Button-1 Clicked": get_button(t)
 #pack()    
 #USE OF LAMBDA FUNCTION
-
-
 import tkinter as tk
 from tkinter import messagebox
 
